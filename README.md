@@ -1,2 +1,2 @@
-# IRC-SPHERE.github.io
+# irc-sphere.github.io
 Github pages repo
